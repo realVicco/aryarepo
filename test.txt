@@ -1,4 +1,5 @@
 test change the content
 first change the branch to dev
 test conflict.
+Git is a free software.
 test --no-ff
